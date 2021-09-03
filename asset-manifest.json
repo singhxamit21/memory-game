@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/memory-game/static/css/main.9d83802e.chunk.css",
+    "main.js": "/memory-game/static/js/main.8c4b0c04.chunk.js",
+    "main.js.map": "/memory-game/static/js/main.8c4b0c04.chunk.js.map",
+    "runtime-main.js": "/memory-game/static/js/runtime-main.37b94236.js",
+    "runtime-main.js.map": "/memory-game/static/js/runtime-main.37b94236.js.map",
+    "static/css/2.800be05e.chunk.css": "/memory-game/static/css/2.800be05e.chunk.css",
+    "static/js/2.e6395c93.chunk.js": "/memory-game/static/js/2.e6395c93.chunk.js",
+    "static/js/2.e6395c93.chunk.js.map": "/memory-game/static/js/2.e6395c93.chunk.js.map",
+    "static/js/3.c6074ab7.chunk.js": "/memory-game/static/js/3.c6074ab7.chunk.js",
+    "static/js/3.c6074ab7.chunk.js.map": "/memory-game/static/js/3.c6074ab7.chunk.js.map",
+    "index.html": "/memory-game/index.html",
+    "static/css/2.800be05e.chunk.css.map": "/memory-game/static/css/2.800be05e.chunk.css.map",
+    "static/css/main.9d83802e.chunk.css.map": "/memory-game/static/css/main.9d83802e.chunk.css.map",
+    "static/js/2.e6395c93.chunk.js.LICENSE.txt": "/memory-game/static/js/2.e6395c93.chunk.js.LICENSE.txt",
+    "static/media/avenger1.a849a6ff.jpg": "/memory-game/static/media/avenger1.a849a6ff.jpg",
+    "static/media/avenger2.be6f59c9.jpg": "/memory-game/static/media/avenger2.be6f59c9.jpg",
+    "static/media/avenger3.aa8eac01.jpg": "/memory-game/static/media/avenger3.aa8eac01.jpg",
+    "static/media/avenger4.18485142.jpg": "/memory-game/static/media/avenger4.18485142.jpg",
+    "static/media/avenger5.d2b35858.jpg": "/memory-game/static/media/avenger5.d2b35858.jpg",
+    "static/media/avenger6.5e51dfe4.jpg": "/memory-game/static/media/avenger6.5e51dfe4.jpg",
+    "static/media/avenger7.5a43f5e8.jpg": "/memory-game/static/media/avenger7.5a43f5e8.jpg",
+    "static/media/avenger8.46e1aaac.jpg": "/memory-game/static/media/avenger8.46e1aaac.jpg",
+    "static/media/avenger9.c0da9c29.jpg": "/memory-game/static/media/avenger9.c0da9c29.jpg",
+    "static/media/backpic.d2e117c9.jpg": "/memory-game/static/media/backpic.d2e117c9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37b94236.js",
+    "static/css/2.800be05e.chunk.css",
+    "static/js/2.e6395c93.chunk.js",
+    "static/css/main.9d83802e.chunk.css",
+    "static/js/main.8c4b0c04.chunk.js"
+  ]
+}
